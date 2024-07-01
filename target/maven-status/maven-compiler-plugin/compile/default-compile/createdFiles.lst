@@ -1,0 +1,16 @@
+event\management\system\exception\handler\GlobalExceptionHandler.class
+event\management\system\repository\UserRepository.class
+event\management\system\controllers\EventController.class
+event\management\system\utility\AuthenticationResponse.class
+event\management\system\entity\Event.class
+event\management\system\entity\Registration.class
+event\management\system\security\SecurityConfig.class
+event\management\system\utility\JwtUtil.class
+event\management\system\controllers\RegistrationController.class
+event\management\system\entity\User.class
+event\management\system\controllers\AuthController.class
+event\management\system\main\EventManagementApplication.class
+event\management\system\service\impl\MyUserDetailsService.class
+event\management\system\utility\JwtRequestFilter.class
+event\management\system\repository\EventRepository.class
+event\management\system\repository\RegistrationRepository.class
